@@ -1,0 +1,9 @@
+{
+  "framework": "vanilla",
+  "functions": {
+    "api/parse.js": {
+      "memory": 1024,
+      "maxDuration": 30
+    }
+  }
+}
